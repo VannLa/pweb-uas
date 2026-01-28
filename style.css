@@ -1,0 +1,59 @@
+.awalan {
+    background-image: url(img/gambargede.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.awalanya {
+    height: 100vh;
+    height: 100vh;
+    position: grid;
+    background-color: rgba(0, 0, 0, 0.5); 
+    align-content: center;
+}
+
+.judul {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.color {
+    background-color: #4B5945;
+    color: white;
+}
+
+.form-control:focus {
+  border-color: #4B5945; 
+  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25); 
+}
+
+.form-select:focus {
+  border-color: #4B5945; 
+  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25); 
+}
+
+.form-check-input:checked {
+  background-color: #4B5945;
+  border-color: #4B5945;
+}
+
+.form-check-input:checked:focus {
+  box-shadow: 0 0 0 0.25rem rgba(40, 167, 69, 0.25); 
+}
+
+.form-check-input:focus {
+  border-color: #4B5945;
+  box-shadow: 0 0 0 0.25rem rgba(40, 167, 69, 0.25);
+}
+
+.masuk:hover {
+    background-color: #2a3327;
+    color: white;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
